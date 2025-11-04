@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "834CFZGYF5.com.palomaai.app",
+        "paths": [
+          "/reset-password",
+          "/reset-password/*"
+        ]
+      }
+    ]
+  }
+}
